@@ -240,7 +240,7 @@ def return_output(question, t_id):
     
 
 # if __name__ == "__main__":
-#     question = "What are the key components of agent system?"
+#     question = "How are you?"
 #     id = "abc126"
 #     response = return_output(question, id)
 #     print(response)
