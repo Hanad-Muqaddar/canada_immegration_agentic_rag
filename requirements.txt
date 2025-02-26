@@ -14,7 +14,5 @@ langcodes==3.3.0
 langdetect==1.0.9
 langgraph==0.2.62
 langgraph-checkpoint==2.0.10
-langgraph-checkpoint-sqlite==2.0.3
-langgraph-sdk==0.1.51
 nltk==3.8.1
 openai==1.59.7
